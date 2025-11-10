@@ -12,7 +12,7 @@ FROM tifosi.ingredient;
 -- résultat obtenu : 25
 
 -- Requête 3 :  Afficher le prix moyen des focaccias : 
-SELECT AVG(prix) AS AveragePrice
+SELECT AVG(prix_foccacia) AS AveragePrice
 FROM tifosi.foccacia; 
 -- on attend en résultat la moyenne des prix des foccacia soit : 10,375.
 -- résultat obtenu : 10.375
