@@ -1,0 +1,1 @@
+Pour l'importation des données, j'ai essayé de passer par l'import des fichiers en csv par "Table Data Import Wizad" mais ça ne fonctionnait pas. J'ai également éssayé avec "LOAD DATA LOCAL INFILE" mais ça ne fonctionnait pas non plus. J'ai donc décidé de mettre les données à la main pour la bonne exécution du devoir.
